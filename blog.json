@@ -1,7 +1,11 @@
 {
   "blog": true,
   "articles": [
-    "proptech"
+    "proptech",
+    "price",
+    "longevity",
+    "ownership",
+    "super-app"
   ],
   "updated": "2026-10-30"
 }
