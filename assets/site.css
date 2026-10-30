@@ -315,6 +315,9 @@ h3 {
   margin-block: 2em 0.7em;
   line-height: 1.4;
 }
+.h-text {
+  display: inline; /* the whole heading is ONE inline run: Latin <bdi> inside it stays inline (isolate), never a flex item */
+}
 .ts {
   font-family: var(--head);
   font-size: 0.75rem;
