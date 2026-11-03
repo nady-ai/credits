@@ -1,16 +1,17 @@
 {
   "blog": true,
   "articles": [
+    "investment",
     "proptech",
     "price",
     "longevity",
     "ownership",
     "super-app",
-    "uniqlo",
-    "ai-app",
-    "choice",
+    "fintech-money",
     "batteries",
-    "investment"
+    "choice",
+    "ai-app",
+    "uniqlo"
   ],
   "updated": "2026-11-03"
 }
