@@ -27,7 +27,8 @@
     "side-income",
     "recession",
     "mahmoud-elaraby",
-    "self-relationship"
+    "self-relationship",
+    "cashflow-quadrant"
   ],
   "shorts": [],
   "paths": {
@@ -57,7 +58,8 @@
     "side-income": "6-أفكار-لبدأ-عمل-اضافي-من-خلال-الانترنت",
     "recession": "نصائح-للتعامل-أوقات-الأزمات-الاقتصادية",
     "mahmoud-elaraby": "فك-شفرة-وسر-نجاح-شهبندر-التجار-ورائد-الصناعة-الإنسان-محمود-العربي",
-    "self-relationship": "ازاي-تقوي-علاقتك-بنفسك"
+    "self-relationship": "ازاي-تقوي-علاقتك-بنفسك",
+    "cashflow-quadrant": "كيف-يتدفق-المال-في-حياتك-cashflow-quadrant"
   },
   "redirects": {
     "nvidia": "ليه-جينسن-هوانج-مشي-في-3-ايام-لكن-مارك-زوكربيرج-محدش-يقدر-يمشيه",
@@ -96,5 +98,5 @@
     "people": "مواضيع/شخصيات",
     "self": "مواضيع/تطوير-الذات"
   },
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
 }
