@@ -28,7 +28,8 @@
     "recession",
     "mahmoud-elaraby",
     "self-relationship",
-    "cashflow-quadrant"
+    "cashflow-quadrant",
+    "tony-robbins"
   ],
   "shorts": [],
   "paths": {
@@ -59,7 +60,8 @@
     "recession": "نصائح-للتعامل-أوقات-الأزمات-الاقتصادية",
     "mahmoud-elaraby": "فك-شفرة-وسر-نجاح-شهبندر-التجار-ورائد-الصناعة-الإنسان-محمود-العربي",
     "self-relationship": "ازاي-تقوي-علاقتك-بنفسك",
-    "cashflow-quadrant": "كيف-يتدفق-المال-في-حياتك-cashflow-quadrant"
+    "cashflow-quadrant": "كيف-يتدفق-المال-في-حياتك-cashflow-quadrant",
+    "tony-robbins": "انتوني-روبنز-موعد-مع-القدر"
   },
   "redirects": {
     "nvidia": "ليه-جينسن-هوانج-مشي-في-3-ايام-لكن-مارك-زوكربيرج-محدش-يقدر-يمشيه",
@@ -98,5 +100,5 @@
     "people": "مواضيع/شخصيات",
     "self": "مواضيع/تطوير-الذات"
   },
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
 }
