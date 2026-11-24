@@ -31,7 +31,8 @@
     "self-relationship",
     "cashflow-quadrant",
     "tony-robbins",
-    "love-languages"
+    "love-languages",
+    "mood"
   ],
   "shorts": [],
   "paths": {
@@ -65,7 +66,8 @@
     "self-relationship": "ازاي-تقوي-علاقتك-بنفسك",
     "cashflow-quadrant": "كيف-يتدفق-المال-في-حياتك-cashflow-quadrant",
     "tony-robbins": "انتوني-روبنز-موعد-مع-القدر",
-    "love-languages": "لغات-الحب-الخمس"
+    "love-languages": "لغات-الحب-الخمس",
+    "mood": "كيف-تتحكم-في-حالتك-النفسية"
   },
   "redirects": {
     "nvidia": "ليه-جينسن-هوانج-مشي-في-3-ايام-لكن-مارك-زوكربيرج-محدش-يقدر-يمشيه",
@@ -104,5 +106,5 @@
     "people": "مواضيع/شخصيات",
     "self": "مواضيع/تطوير-الذات"
   },
-  "updated": "2026-11-23"
+  "updated": "2026-11-24"
 }
